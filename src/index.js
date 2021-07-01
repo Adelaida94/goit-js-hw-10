@@ -1,4 +1,4 @@
-// import meals from '../package.json';
+
 import menuTemplate from './templates/menutemplate.hbs';
 import './sass/main.scss';
 import elMarkup from './menu.json';
